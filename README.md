@@ -100,7 +100,7 @@ The project consists of the following files:
 1. Run the program using the following command:  
    ```bash
    java FirstBank
-## 2. Follow the Menu Options Displayed in the Console
+2. Follow the Menu Options Displayed in the Console
 
 - **A**: Check your account balance.  
 - **B**: Deposit money into your account.  
@@ -123,13 +123,6 @@ To compile the Java files, run the following command:
 ```bash
 javac Account.java FirstBank.java
 
-## 8. Compile and Run
-
-### Compile the Java Files
-To compile the Java files, run the following command:  
-
-```bash
-javac Account.java FirstBank.java
 
 ### Run the Application
 To execute the application, run:
