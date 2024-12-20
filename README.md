@@ -119,17 +119,17 @@ The project consists of the following files:
 ## 8. Compile and Run
 
 ### Compile the Java Files
-To compile the Java files, run the following command:  
+To compile the Java files, run the following command:
 ```bash
-javac Account.java FirstBank.java
-
+javac FirstBank.java
+```
 
 ### Run the Application
 To execute the application, run:
 
 ```bash
 java FirstBank
+```
 
 ## 9. Author
 This project was developed as a hands-on Java practice to demonstrate fundamental object-oriented programming concepts and banking operations.
-
